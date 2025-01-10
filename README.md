@@ -17,9 +17,4 @@ This project aims to forecast the sales of Rossmann pharmacies in various locati
 - [Folder Structure](#folder-structure)
 - [License](#license)
 
-## Installation
-To get started with this project, please ensure you have Python 3.6 or higher installed. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/rossmann-sales-forecast.git
-cd rossmann-sales-forecast
